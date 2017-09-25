@@ -1,0 +1,1 @@
+This is our practice project that max and I have put up together for learning Git and GitHub!!!
